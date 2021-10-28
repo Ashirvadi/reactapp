@@ -9,7 +9,7 @@ const Commonpage = (props) => {
                         <div className="col-10 mx-auto">
                             <div className="row">
                                 <div className="col-md-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column">
-                                    <h1>{props.title} <span className="brand-name">Ashirvadi Nath</span></h1>
+                                    <h1>{props.title} <span className="brand-name">Ashirvadi Nath Dwivedi</span></h1>
                                     <h5 className="my-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </h5>
                                     <div className="my-3">
                                         <Link to={props.target} className="btn btn-get-started">{props.btnName}</Link>
